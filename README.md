@@ -2,7 +2,7 @@
 
 Hi there! I'm **Tejasvi**, a passionate **Data Engineer**  dedicated to solving complex problems and building scalable, efficient solutions.  
 
-- 🌍 Based in: Dublin  
+- 🌍 Based in: Bangalore  
 - 🎓 Education: MSc in Data Analytics  
 - 🌟 Interests: Cloud Engineering, Data Pipelines, Infrastructure Automation, Data Visualization, Web Development  
 - 📧 Reach me at: mntejasvimysore@gmail.com  
